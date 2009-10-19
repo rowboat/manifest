@@ -6,6 +6,7 @@
   <default revision="master"
            remote="rowboat" />
   
+  <project path="kernel" name="kernel"/>
   <project path="bionic" name="bionic"/>
   <project path="bootable/bootloader/legacy" name="bootable-bootloader-legacy"/>
   <project path="bootable/diskinstaller" name="bootable-diskinstaller"/>
