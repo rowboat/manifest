@@ -162,6 +162,6 @@
   <project path="system/extras" name="system-extras"/>
   <project path="system/wlan/ti" name="system-wlan-ti"/>
   <project path="vendor/ea/generic" name="vendor-ea-generic"/>
-  <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard"/>
-  <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm"/>
+  <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" revision="ti-dsp"/>
+  <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="ti-dsp"/>
 </manifest>
