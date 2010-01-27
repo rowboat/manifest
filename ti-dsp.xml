@@ -53,7 +53,7 @@
   <project path="external/grub" name="external-grub"/>
   <project path="external/gst-ffmpeg" name="external-gst-ffmpeg"/>
   <project path="external/gst-openmax" name="external-gst-openmax"/>
-  <project path="external/gst-plugins-android" name="external-gst-plugins-android"/>
+  <project path="external/gst-plugins-android" name="external-gst-plugins-android" revision="ti-dsp"/>
   <project path="external/gst-plugins-bad" name="external-gst-plugins-bad"/>
   <project path="external/gst-plugins-base" name="external-gst-plugins-base"/>
   <project path="external/gst-plugins-good" name="external-gst-plugins-good"/>
