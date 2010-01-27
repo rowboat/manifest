@@ -58,7 +58,7 @@
   <project path="external/gst-plugins-base" name="external-gst-plugins-base"/>
   <project path="external/gst-plugins-good" name="external-gst-plugins-good"/>
   <project path="external/gst-plugins-ugly" name="external-gst-plugins-ugly"/>
-  <project path="external/gstreamer" name="external-gstreamer"/>
+  <project path="external/gstreamer" name="external-gstreamer" revision="ti-dsp"/>
   <project path="external/gtest" name="external-gtest"/>
   <project path="external/hcidump" name="external-hcidump"/>
   <project path="external/icu4c" name="external-icu4c"/>
