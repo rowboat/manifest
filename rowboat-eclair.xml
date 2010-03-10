@@ -22,7 +22,7 @@
   <project path="development" name="development" />
   <project path="frameworks/base" name="frameworks-base" />
   <project path="frameworks/opt/com.google.android" name="frameworks-opt-com_google_android" />
-  <project path="frameworks/opt/com.google.android.googlelogin" name="frameworks-opt-com_google_android.googlelogin" />
+  <project path="frameworks/opt/com.google.android.googlelogin" name="frameworks-opt-com_google_android_googlelogin" />
   <project path="frameworks/opt/emoji" name="frameworks-opt-emoji" />
   <project path="frameworks/policies/base" name="frameworks-policies-base" />
   <project path="hardware/alsa_sound" name="hardware-alsa_sound" />
