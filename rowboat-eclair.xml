@@ -180,6 +180,7 @@
   <project path="external/zlib" name="external-zlib" />
 
   <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" />
+  <project path="vendor/ti/beagle" name="vendor-ti-beagleboard" />
   <project path="vendor/rowboat/generic" name="vendor-rowboat-generic" />
 
   <project path="cts" name="cts" />
