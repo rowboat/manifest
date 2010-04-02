@@ -150,7 +150,7 @@
   <project path="external/netcat" name="external-netcat" />
   <project path="external/netperf" name="external-netperf" />
   <project path="external/neven" name="external-neven" />
-  <project path="external/opencore" name="external-opencore" revision="rowboat-eclair-dsp" />
+  <project path="external/opencore" name="external-opencore" revision="rowboat-master-dsp" />
   <project path="external/openssl" name="external-openssl" />
   <project path="external/openvpn" name="external-openvpn" />
   <project path="external/oprofile" name="external-oprofile" />
