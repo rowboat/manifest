@@ -31,7 +31,7 @@
   <project path="hardware/libhardware_legacy" name="hardware-libhardware_legacy" />
   <project path="hardware/msm7k" name="hardware-msm7k" />
   <project path="hardware/ril" name="hardware-ril" />
-  <project path="hardware/ti/omap3" name="hardware-ti-omap3" />
+  <project path="hardware/ti/omap3" name="hardware-ti-omap3" revision="rowboat-eclair-dsp" />
   <project path="hardware/ti/wlan" name="hardware-ti-wlan" />
   <project path="sdk" name="sdk" />
 
