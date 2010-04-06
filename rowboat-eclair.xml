@@ -181,6 +181,7 @@
 
   <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" />
   <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" />
+  <project path="vendor/ti/igepv2" name="vendor-ti-igepv2" />
   <project path="vendor/rowboat/generic" name="vendor-rowboat-generic" />
 
   <project path="cts" name="cts" />
