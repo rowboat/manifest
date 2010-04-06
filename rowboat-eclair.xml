@@ -6,7 +6,7 @@
   <default revision="rowboat-eclair" 
   	   remote="rowboat" />
 
-  <project path="kernel" name="kernel" revision="master"/>
+  <project path="kernel" name="kernel" />
 
   <project path="build" name="build">
     <copyfile src="core/root.mk" dest="Makefile" />
