@@ -199,6 +199,7 @@
 
   <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="rowboat-eclair-dsp" />
   <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" revision="rowboat-eclair-dsp" />
+  <project path="vendor/ti/igepv2" name="vendor-ti-igepv2" revision="rowboat-eclair-dsp" />
   <project path="vendor/rowboat/generic" name="vendor-rowboat-generic" />
 
   <project path="cts" name="cts" />
