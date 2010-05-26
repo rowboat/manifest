@@ -10,7 +10,7 @@
 
   <project path="build" name="build" revision="rowboat-eclair-dsp" >
     <copyfile src="core/root.mk" dest="Makefile" />
-    <copyfile src="core/prepare" dest="prepare" />
+    <copyfile src="core/prepare.mk" dest="prepare" />
   </project>
 
   <project path="bionic" name="bionic" revision="rowboat-eclair-dsp" />
