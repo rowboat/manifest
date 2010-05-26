@@ -6,7 +6,7 @@
   <default revision="rowboat-eclair" 
   	   remote="rowboat" />
 
-  <project path="kernel" name="kernel" />
+  <project path="kernel" name="kernel" revision="rowboat-eclair-2.6.32" />
 
   <project path="build" name="build">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -66,8 +66,10 @@
   <project path="packages/apps/Contacts" name="packages-apps-contacts" />
   <project path="packages/apps/DeskClock" name="packages-apps-deskclock" />
   <project path="packages/apps/Email" name="packages-apps-email" />
+  <project path="packages/apps/EvilSkull" name="packages-apps-evilskull" />
   <project path="packages/apps/Gallery" name="packages-apps-gallery" />
   <project path="packages/apps/Gallery3D" name="packages-apps-gallery3d" />
+  <project path="packages/apps/GeneralRunner" name="packages-apps-genralrunner" />
   <project path="packages/apps/GlobalSearch" name="packages-apps-globalsearch" />
   <project path="packages/apps/GoogleSearch" name="packages-apps-googlesearch" />
   <project path="packages/apps/HTMLViewer" name="packages-apps-htmlviewer" />
@@ -84,6 +86,7 @@
   <project path="packages/apps/Stk" name="packages-apps-stk" />
   <project path="packages/apps/Sync" name="packages-apps-sync" />
   <project path="packages/apps/Updater" name="packages-apps-updater" />
+  <project path="packages/apps/Vase" name="packages-apps-vase" />
   <project path="packages/apps/VoiceDialer" name="packages-apps-voicedialer" />
 
   <project path="packages/inputmethods/LatinIME" name="packages-inputmethods-latinime" />
@@ -180,6 +183,7 @@
   <project path="external/zlib" name="external-zlib" />
 
   <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" />
+  <project path="vendor/ti/am3517evm" name="vendor-ti-am3517evm" />
   <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" />
   <project path="vendor/ti/igepv2" name="vendor-ti-igepv2" />
   <project path="vendor/rowboat/generic" name="vendor-rowboat-generic" />
