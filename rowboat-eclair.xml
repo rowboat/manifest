@@ -69,7 +69,7 @@
   <project path="packages/apps/EvilSkull" name="packages-apps-evilskull" />
   <project path="packages/apps/Gallery" name="packages-apps-gallery" />
   <project path="packages/apps/Gallery3D" name="packages-apps-gallery3d" />
-  <project path="packages/apps/GeneralRunner" name="packages-apps-genralrunner" />
+  <project path="packages/apps/GeneralRunner" name="packages-apps-generalrunner" />
   <project path="packages/apps/GlobalSearch" name="packages-apps-globalsearch" />
   <project path="packages/apps/GoogleSearch" name="packages-apps-googlesearch" />
   <project path="packages/apps/HTMLViewer" name="packages-apps-htmlviewer" />
