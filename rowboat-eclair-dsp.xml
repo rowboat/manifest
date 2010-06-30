@@ -196,9 +196,9 @@
   <project path="external/libmad" name="external-libmad" revision="master" />
   <project path="external/libogg" name="external-libogg" revision="master" />
   <project path="external/liboil" name="external-liboil" revision="master" />
-  <project path="external/ti-dsp" name="external-ti-dsp" revision="rowboat-eclair-dsp" />
+  <project path="external/ti-dsp" name="external-ti-dsp" revision="77fd402a7f3b0c0feb9565c06f88fe6c3d8bb3df" />
 
-  <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="rowboat-eclair-dsp" />
+  <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="b3f1cc9df3357549ec16f423e54c739b988124ae" />
   <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" revision="rowboat-eclair-dsp" />
   <project path="vendor/ti/igepv2" name="vendor-ti-igepv2" revision="rowboat-eclair-dsp" />
   <project path="vendor/rowboat/generic" name="vendor-rowboat-generic" />
