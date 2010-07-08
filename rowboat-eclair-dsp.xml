@@ -67,13 +67,13 @@
   <project path="packages/apps/Contacts" name="packages-apps-contacts" />
   <project path="packages/apps/DeskClock" name="packages-apps-deskclock" />
   <project path="packages/apps/Email" name="packages-apps-email" />
-  <project path="packages/apps/Gallery" name="packages-apps-gallery" />
-  <project path="packages/apps/Gallery3D" name="packages-apps-gallery3d" />
+  <project path="packages/apps/Gallery" name="packages-apps-gallery" revision="f4b34d7dc697c6a63301143d840ee7c6dd2c1628" />
+  <project path="packages/apps/Gallery3D" name="packages-apps-gallery3d" revision="8e98506ed83b87722beaef1cb8bd363cab665b34" />
   <project path="packages/apps/GlobalSearch" name="packages-apps-globalsearch" />
   <project path="packages/apps/GoogleSearch" name="packages-apps-googlesearch" />
   <project path="packages/apps/HTMLViewer" name="packages-apps-htmlviewer" />
   <project path="packages/apps/IM" name="packages-apps-im" />
-  <project path="packages/apps/Launcher" name="packages-apps-launcher" />
+  <project path="packages/apps/Launcher" name="packages-apps-launcher" revision="2d9deccfba80bcd999521cc0bea695ad34080f4d" />
   <project path="packages/apps/Launcher2" name="packages-apps-launcher2" />
   <project path="packages/apps/Mms" name="packages-apps-mms" />
   <project path="packages/apps/Music" name="packages-apps-music" />
