@@ -184,21 +184,21 @@
   <project path="external/zlib" name="external-zlib" />
 
 
-  <project path="external/faad2" name="external-faad2" revision="master" />
-  <project path="external/ffmpeg" name="external-ffmpeg" revision="master" />
-  <project path="external/glib" name="external-glib" revision="master" />
-  <project path="external/gst-ffmpeg" name="external-gst-ffmpeg" revision="master" />
-  <project path="external/gst-openmax" name="external-gst-openmax" revision="master" />
+  <project path="external/faad2" name="external-faad2" />
+  <project path="external/ffmpeg" name="external-ffmpeg" />
+  <project path="external/glib" name="external-glib" />
+  <project path="external/gst-ffmpeg" name="external-gst-ffmpeg" />
+  <project path="external/gst-openmax" name="external-gst-openmax" />
   <project path="external/gst-plugins-android" name="external-gst-plugins-android" revision="rowboat-eclair-dsp" />
-  <project path="external/gst-plugins-bad" name="external-gst-plugins-bad" revision="master" />
-  <project path="external/gst-plugins-base" name="external-gst-plugins-base" revision="master" />
-  <project path="external/gst-plugins-good" name="external-gst-plugins-good" revision="master" />
-  <project path="external/gst-plugins-ugly" name="external-gst-plugins-ugly" revision="master" />
+  <project path="external/gst-plugins-bad" name="external-gst-plugins-bad" />
+  <project path="external/gst-plugins-base" name="external-gst-plugins-base" />
+  <project path="external/gst-plugins-good" name="external-gst-plugins-good" />
+  <project path="external/gst-plugins-ugly" name="external-gst-plugins-ugly" />
   <project path="external/gstreamer" name="external-gstreamer" revision="rowboat-eclair-dsp" />
-  <project path="external/libid3tag" name="external-libid3tag" revision="master" />
-  <project path="external/libmad" name="external-libmad" revision="master" />
-  <project path="external/libogg" name="external-libogg" revision="master" />
-  <project path="external/liboil" name="external-liboil" revision="master" />
+  <project path="external/libid3tag" name="external-libid3tag" />
+  <project path="external/libmad" name="external-libmad" />
+  <project path="external/libogg" name="external-libogg" />
+  <project path="external/liboil" name="external-liboil" />
   <project path="external/ti-dsp" name="external-ti-dsp" revision="rowboat-eclair-dsp" />
 
   <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="rowboat-eclair-dsp" />
