@@ -6,7 +6,7 @@
   <default revision="rowboat-eclair" 
   	   remote="rowboat" />
 
-  <project path="kernel" name="kernel" />
+  <project path="kernel" name="kernel" revision="rowboat-eclair-2.6.32" />
 
   <project path="build" name="build" revision="rowboat-eclair-dsp" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -32,7 +32,7 @@
   <project path="hardware/libhardware_legacy" name="hardware-libhardware_legacy" />
   <project path="hardware/msm7k" name="hardware-msm7k" />
   <project path="hardware/ril" name="hardware-ril" />
-  <project path="hardware/ti/omap3" name="hardware-ti-omap3" revision="6d30422c292a834aa1b407c1aa45270f38322fda" />
+  <project path="hardware/ti/omap3" name="hardware-ti-omap3" revision="rowboat-eclair-dsp" />
   <project path="hardware/ti/wlan" name="hardware-ti-wlan" />
   <project path="sdk" name="sdk" />
 
@@ -67,13 +67,15 @@
   <project path="packages/apps/Contacts" name="packages-apps-contacts" />
   <project path="packages/apps/DeskClock" name="packages-apps-deskclock" />
   <project path="packages/apps/Email" name="packages-apps-email" />
-  <project path="packages/apps/Gallery" name="packages-apps-gallery" revision="f4b34d7dc697c6a63301143d840ee7c6dd2c1628" />
-  <project path="packages/apps/Gallery3D" name="packages-apps-gallery3d" revision="8e98506ed83b87722beaef1cb8bd363cab665b34" />
+  <project path="packages/apps/EvilSkull" name="packages-apps-evilskull" />
+  <project path="packages/apps/Gallery" name="packages-apps-gallery" />
+  <project path="packages/apps/Gallery3D" name="packages-apps-gallery3d" />
+  <project path="packages/apps/GeneralRunner" name="packages-apps-generalrunner" />
   <project path="packages/apps/GlobalSearch" name="packages-apps-globalsearch" />
   <project path="packages/apps/GoogleSearch" name="packages-apps-googlesearch" />
   <project path="packages/apps/HTMLViewer" name="packages-apps-htmlviewer" />
   <project path="packages/apps/IM" name="packages-apps-im" />
-  <project path="packages/apps/Launcher" name="packages-apps-launcher" revision="2d9deccfba80bcd999521cc0bea695ad34080f4d" />
+  <project path="packages/apps/Launcher" name="packages-apps-launcher" />
   <project path="packages/apps/Launcher2" name="packages-apps-launcher2" />
   <project path="packages/apps/Mms" name="packages-apps-mms" />
   <project path="packages/apps/Music" name="packages-apps-music" />
@@ -85,6 +87,7 @@
   <project path="packages/apps/Stk" name="packages-apps-stk" />
   <project path="packages/apps/Sync" name="packages-apps-sync" />
   <project path="packages/apps/Updater" name="packages-apps-updater" />
+  <project path="packages/apps/Vase" name="packages-apps-vase" />
   <project path="packages/apps/VoiceDialer" name="packages-apps-voicedialer" />
 
   <project path="packages/inputmethods/LatinIME" name="packages-inputmethods-latinime" />
@@ -196,9 +199,9 @@
   <project path="external/libmad" name="external-libmad" revision="master" />
   <project path="external/libogg" name="external-libogg" revision="master" />
   <project path="external/liboil" name="external-liboil" revision="master" />
-  <project path="external/ti-dsp" name="external-ti-dsp" revision="77fd402a7f3b0c0feb9565c06f88fe6c3d8bb3df" />
+  <project path="external/ti-dsp" name="external-ti-dsp" revision="rowboat-eclair-dsp" />
 
-  <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="b3f1cc9df3357549ec16f423e54c739b988124ae" />
+  <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" revision="rowboat-eclair-dsp" />
   <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" revision="rowboat-eclair-dsp" />
   <project path="vendor/ti/igepv2" name="vendor-ti-igepv2" revision="rowboat-eclair-dsp" />
   <project path="vendor/rowboat/generic" name="vendor-rowboat-generic" />
