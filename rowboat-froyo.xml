@@ -23,6 +23,7 @@
   <project path="development" name="development" />
 
   <project path="device/ti/omap3evm" name="vendor-ti-omap3evm" />
+  <project path="device/ti/am3517evm" name="vendor-ti-am3517evm" />
   <project path="device/rowboat/generic" name="vendor-rowboat-generic" />
 
   <project path="external/alsa-lib" name="external-alsa-lib" />
