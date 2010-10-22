@@ -105,12 +105,12 @@
   <project name="hardware-ril" path="hardware/ril" revision="76e1a7bfbf7317789e49721abf1b37eded14208b"/>
   <project name="hardware-ti-omap3" path="hardware/ti/omap3" revision="3cafa028f4c2e4ec42fa1891c425a3f7446c6155"/>
   <project name="hardware-ti-wlan" path="hardware/ti/wlan" revision="4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90"/>
-  <project name="kernel" revision="c2f327e2814d4f7d3f49922d8025cca46077d9d1"/>
+  <project name="kernel" revision="a8f1850dea46a7c6268beb6b3d38b987f126116f"/>
   <project name="ndk" revision="33202f3b3008ce413717c04b7eefd8722eaa214c"/>
   <project name="packages-apps-accountsandsyncsettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project name="packages-apps-alarmclock" path="packages/apps/AlarmClock" revision="062d863a156a3564a839ab5a718f31500298635f"/>
   <project name="packages-apps-bluetooth" path="packages/apps/Bluetooth" revision="252a273678109302c6c4a3e35306f5fe9ce52738"/>
-  <project name="packages-apps-browser" path="packages/apps/Browser" revision="88ec7e4870391af9a193957222fd6ded16b9c546"/>
+  <project name="packages-apps-browser" path="packages/apps/Browser" revision="5e9a141f5d05bc2161b80584a144327c35ba4327"/>
   <project name="packages-apps-calculator" path="packages/apps/Calculator" revision="72b0717b7d8956ada90742947838779b24e323f7"/>
   <project name="packages-apps-calendar" path="packages/apps/Calendar" revision="14e77164bddf4d29acaca5bb2ff116a697bf9650"/>
   <project name="packages-apps-camera" path="packages/apps/Camera" revision="b84acd02e46f87dead1fa75abb14427bf29ba8d8"/>
@@ -122,12 +122,12 @@
   <project name="packages-apps-gallery3D" path="packages/apps/Gallery3D" revision="c8396cca79725b2e7366f125264f691e9ddbbc9a"/>
   <project name="packages-apps-htmlviewer" path="packages/apps/HTMLViewer" revision="242decf0f94b015347618cef42eae9bcc4948ff6"/>
   <project name="packages-apps-im" path="packages/apps/IM" revision="d4eead18d460ee3b4f911bf93078158194bb252c"/>
-  <project name="packages-apps-launcher2" path="packages/apps/Launcher2" revision="8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0"/>
+  <project name="packages-apps-launcher2" path="packages/apps/Launcher2" revision="1f3bead597a765ed3d6176e60301ecbac562b544"/>
   <project name="packages-apps-mms" path="packages/apps/Mms" revision="2b7da074e10ceb0e04cc205efe721092781f2712"/>
   <project name="packages-apps-music" path="packages/apps/Music" revision="f2af357f196210884234a8b52cb1e7d2b287e016"/>
   <project name="packages-apps-packageinstaller" path="packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>
   <project name="packages-apps-phone" path="packages/apps/Phone" revision="d7c9a98564805669048cd27a9765ee445ab27c1c"/>
-  <project name="packages-apps-protips" path="packages/apps/Protips" revision="20d835c4b499d40504b08f58435d5b9de48ffddf"/>
+  <project name="packages-apps-protips" path="packages/apps/Protips" revision="c2bb2fa912697e21869c21a8f962dabea6d2c659"/>
   <project name="packages-apps-provision" path="packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project name="packages-apps-quicksearchbox" path="packages/apps/QuickSearchBox" revision="136488d42a231b9d821cc4a475c0247a4c469bf0"/>
   <project name="packages-apps-settings" path="packages/apps/Settings" revision="9223fc7a29d23728f0f80190cb2b2e793c275698"/>
@@ -161,6 +161,8 @@
   <project name="system-vold" path="system/vold" revision="1a06edaf4db4e9c520624bcc06e0e13ee470d90e"/>
   <project name="system-wlan-ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
   <project name="vendor-rowboat-generic" path="device/rowboat/generic" revision="5a6a326d54d439dec6074b69c133b870378d7dbc"/>
-  <project name="vendor-ti-am3517evm" path="device/ti/am3517evm" revision="a3fe93294d4c7ed8c7bd21ef48e107e32e1844c4"/>
-  <project name="vendor-ti-omap3evm" path="device/ti/omap3evm" revision="61e276a4144acb9f900ab1c7abc8e99716c73bfa"/>
+  <project name="vendor-ti-am3517evm" path="device/ti/am3517evm" revision="ab6fa4247363e6c971ae10037ece31a576d891e7"/>
+  <project name="vendor-ti-beagleboard" path="device/ti/beagleboard" revision="e55b5200a3530b292bb46ec96abe3b48762d932e"/>
+  <project name="vendor-ti-igepv2" path="device/ti/igepv2" revision="08b59fe3b1a0820c9b24092d8b433ddf466b12a4"/>
+  <project name="vendor-ti-omap3evm" path="device/ti/omap3evm" revision="46d7acb796bf49eaf21c48b229841545e23d0d21"/>
 </manifest>
