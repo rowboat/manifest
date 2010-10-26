@@ -182,6 +182,7 @@
   <project path="external/yaffs2" name="external-yaffs2" />
   <project path="external/zlib" name="external-zlib" />
 
+  <project path="external/ti_android_sgx_sdk" name="ti_android_sgx_sdk" revision="master" />
 
   <project path="external/faad2" name="external-faad2" />
   <project path="external/ffmpeg" name="external-ffmpeg" />

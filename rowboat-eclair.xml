@@ -182,6 +182,8 @@
   <project path="external/yaffs2" name="external-yaffs2" />
   <project path="external/zlib" name="external-zlib" />
 
+  <project path="external/ti_android_sgx_sdk" name="ti_android_sgx_sdk" revision="master" />
+
   <project path="vendor/ti/omap3evm" name="vendor-ti-omap3evm" />
   <project path="vendor/ti/am3517evm" name="vendor-ti-am3517evm" />
   <project path="vendor/ti/beagleboard" name="vendor-ti-beagleboard" />

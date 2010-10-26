@@ -108,6 +108,8 @@
   <project path="external/yaffs2" name="external-yaffs2" />
   <project path="external/zlib" name="external-zlib" />
 
+  <project path="external/ti_android_sgx_sdk" name="ti_android_sgx_sdk" revision="master" />
+
   <project path="frameworks/base" name="frameworks-base" />
   <project path="frameworks/ex" name="frameworks-ex" />
   <project path="frameworks/opt/emoji" name="frameworks-opt-emoji" />
