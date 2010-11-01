@@ -22,6 +22,7 @@
   <project path="dalvik" name="dalvik" />
   <project path="development" name="development" />
 
+  <project path="device/ti/am1808evm" name="vendor-ti-am1808evm" />
   <project path="device/ti/igepv2" name="vendor-ti-igepv2" />
   <project path="device/ti/beagleboard" name="vendor-ti-beagleboard" />
   <project path="device/ti/omap3evm" name="vendor-ti-omap3evm" />
