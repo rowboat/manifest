@@ -123,6 +123,7 @@
   <project path="hardware/qcom/gps" name="hardware-qcom-gps" />
   <project path="hardware/ril" name="hardware-ril" />
   <project path="hardware/ti/omap3" name="hardware-ti-omap3" />
+  <project path="hardware/ti/omx" name="hardware-ti-omx" />
   <project path="hardware/ti/wlan" name="hardware-ti-wlan" />
 
   <project path="hardware/alsa_sound" name="hardware-alsa_sound" />
