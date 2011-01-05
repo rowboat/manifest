@@ -7,6 +7,7 @@
            remote="rowboat" />
 
   <project path="kernel" name="kernel" revision="rowboat-eclair-2.6.32" />
+  <project path="u-boot-omap3" name="u-boot-omap3" revision="ti816x-master-android" />
 
   <project path="build" name="build">
     <copyfile src="core/root.mk" dest="Makefile" />
