@@ -105,7 +105,7 @@
   <project name="hardware-ril" path="hardware/ril" revision="76e1a7bfbf7317789e49721abf1b37eded14208b"/>
   <project name="hardware-ti-omap3" path="hardware/ti/omap3" revision="8bf8fc6695bd104b61ddff9e26d0b442daf5210c"/>
   <project name="hardware-ti-wlan" path="hardware/ti/wlan" revision="4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90"/>
-  <project name="kernel" revision="e1cd1822c97460787eafce6f0e737069ae694efc"/>
+  <project name="kernel" revision="beaa7f977d027f33097873c34528c7485130dc98"/>
   <project name="ndk" revision="33202f3b3008ce413717c04b7eefd8722eaa214c"/>
   <project name="packages-apps-accountsandsyncsettings" path="packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project name="packages-apps-alarmclock" path="packages/apps/AlarmClock" revision="062d863a156a3564a839ab5a718f31500298635f"/>
@@ -166,5 +166,5 @@
   <project name="vendor-ti-am3517evm" path="device/ti/am3517evm" revision="4d52c745426e48ffd42c7f5b3e26c74fd8dcb01c"/>
   <project name="vendor-ti-beagleboard" path="device/ti/beagleboard" revision="e55b5200a3530b292bb46ec96abe3b48762d932e"/>
   <project name="vendor-ti-igepv2" path="device/ti/igepv2" revision="08b59fe3b1a0820c9b24092d8b433ddf466b12a4"/>
-  <project name="vendor-ti-omap3evm" path="device/ti/omap3evm" revision="997bd8ccac82aa22646978b503b1253765c4bc3a"/>
+  <project name="vendor-ti-omap3evm" path="device/ti/omap3evm" revision="2849e3c31b95e449623436aef12dbe2512a37f77"/>
 </manifest>
