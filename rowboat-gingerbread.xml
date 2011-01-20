@@ -22,13 +22,6 @@
   <project path="dalvik" name="dalvik" />
   <project path="development" name="development" />
 
-  <project path="device/common" name="device-common" />
-  <project path="device/htc/common" name="device-htc-common" />
-  <project path="device/htc/passion" name="device-htc-passion" />
-  <project path="device/htc/passion-common" name="device-htc-passion-common" />
-  <project path="device/sample" name="device-sample" />
-  <project path="device/samsung/crespo" name="device-samsung-crespo" />
-
   <project path="device/ti/omap3evm" name="vendor-ti-omap3evm" />
   <project path="device/ti/am3517evm" name="vendor-ti-am3517evm" />
   <project path="device/ti/beagleboard" name="vendor-ti-beagleboard" />
